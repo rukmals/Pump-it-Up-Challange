@@ -1,5 +1,7 @@
 # Pump-it-Up-Challange
 
+![alt text](https://github.com/rukmals/Pump-it-Up-Challange)
+
 ## preprocessing and feature engineering techniques
 1. transforms raw data into meaningful information(Reducing cardinality)
 2. Replace NULL values with most frequent data
