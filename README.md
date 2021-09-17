@@ -1,9 +1,9 @@
 # Pump-it-Up-Challange
 
-1. preprocessing and feature engineering techniques
-2. transforms raw data into meaningful information(Reducing cardinality)
-3. Replace NULL values with most frequent data
-4. Feature Imbalance
-5. OneHotEncoding
-6. Ordinal encoding
-7. Dropping similar features
+## preprocessing and feature engineering techniques
+1. transforms raw data into meaningful information(Reducing cardinality)
+2. Replace NULL values with most frequent data
+3. Feature Imbalance
+4. OneHotEncoding
+5. Ordinal encoding
+6. Dropping similar features
